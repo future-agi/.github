@@ -56,6 +56,3 @@ Got an idea? Let’s build the future of AI together.
 **🚀 Building the future, one dataset at a time.**  
 Let’s shape the AI of tomorrow together! 💡
 
----
-
-Let me know if you'd like to customize this further for your organization!
