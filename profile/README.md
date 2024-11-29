@@ -36,7 +36,7 @@ Looking to partner on AI solutions or projects? [Get in touch](mailto:partnershi
 ## 🌟 Get Involved
 
 🎉 **Contribute**  
-We welcome contributors from all backgrounds. Check out our [public repositories](https://github.com/futureagi) to get started.  
+We welcome contributors from all backgrounds. Check out our [public repositories](https://github.com/orgs/future-agi/repositories) to get started.  
 📚 **Learn**  
 Explore our [documentation](https://docs.futureagi.com) for in-depth guides and resources.  
 🛠 **Collaborate**  
