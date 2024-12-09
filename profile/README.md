@@ -4,23 +4,30 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-blue)](https://linkedin.com/company/futureagi)
 [![Twitter](https://img.shields.io/twitter/follow/futureagi?style=social)](https://twitter.com/futureagi)
 
-🌟 **Transforming the AI Landscape** 🌟  
-At **Future AGI**, we are pioneering the **data layer for AI** to supercharge the creation, evaluation, and retraining of multimodal AI systems. Our mission is to simplify and accelerate the AI lifecycle for enterprises, enabling high-quality data generation and observability for all.
+🌟 **Transforming the AI Landscape** 🌟
+
+​​Future AGI is a strategic partner in your AI development journey. We simplify and accelerate AI development for data scientists, AI product owners, and software developers by streamlining and automating  data workflows from pre to post production, quick experimentation and optimization, and providing actionable insights using custom evals to help you focus on building effective AI solutions, all without human-in-the-loop boasting 99% accuracy in overall data handling. By bridging the gap between technical and business teams, we ensure your AI initiatives align with overall org level goals. With scalable infrastructure and seamless integration, Future AGI supports the development and deployment of advanced AI models, making your workflows faster and more efficient.
 
 ---
 
 ## 🔥 What We Do
 
-- **Automated Data Generation**: Generate and refine datasets for AI training with ease.
-- **Multimodal AI Systems**: Build robust models with support for text, images, audio, and video data.
-- **End-to-End Analytics**: Leverage insights to optimize datasets and model performance.
-- **Enterprise Solutions**: Deliver scalable and secure tools tailored for business needs.
+Future AGI provides a comprehensive AI data management solution designed to enhance enterprise’s AI capabilities through automation, scalability, and collaboration:
+
+1. Automated Data Management: Quick integration with different databases, automated annotation and dataset generation for model training
+2. LLM Experimentation: Experiment with multiple prompts and models in 2-3 clicks, and view side-by-side comparisons to quickly identify what works and what doesn’t.
+3. Prompt Optimization: Run prompts on your dataset and use Optimize functionality to find the most optimized prompt suggested by the Agent
+4. Custom Evals & Metrics: With a rich and comprehensive repository of 70+ Evals, 20+ being proprietary, Future AGI facilitates cross-functional collaboration and allows users to define custom metrics to align AI initiatives with business goals, bridging the gap between technical and non-technical teams.
+5. Multimodal AI Systems: Build robust models with support for text, images, audio, and video data.
+6. API & SDK Functionality: Enable seamless integration of Future AGI's advanced features into your existing workflows with comprehensive APIs and SDKs.
+7. Insight Analysis: Unified dashboard to consolidate all your metrics for seamless analysis
+
 
 ---
 
 ## 💡 Our Vision
 
-To enable the next wave of AI innovation by providing **high-quality data at scale** and empowering organizations to build better AI systems faster.
+To transform the AI development landscape by empowering teams to build and deploy advanced models with speed, precision, and impact, bridging the gap between innovation and business success across industries.
 
 ---
 
