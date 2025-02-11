@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Ffutureagi.com)](https://futureagi.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-blue)](https://linkedin.com/company/futureagi)
-[![Twitter](https://img.shields.io/twitter/follow/futureagi?style=social)](https://twitter.com/futureagi_)
+[![Twitter](https://img.shields.io/twitter/follow/futureagi_?style=social)](https://twitter.com/futureagi_)
 
 
 ## Revolutionizing AI Evaluation & Optimization
@@ -60,7 +60,7 @@ Got an idea? Let’s build the future of AI together.
 - **Website**: [futureagi.com](https://futureagi.com)  
 - **LinkedIn**: [Future AGI](https://linkedin.com/company/futureagi)  
 - **Twitter**: [@FutureAGI](https://twitter.com/futureagi_)  
-- **Support**: [support@futureagi.com](mailto:hello@futureagi.com)
+- **Support**: [hello@futureagi.com](mailto:hello@futureagi.com)
 
 ---
 
