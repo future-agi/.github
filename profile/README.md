@@ -12,22 +12,12 @@
 <p align="center">
   <a href="https://docs.futureagi.com"><strong>View Docs</strong></a> ·
   <a href="https://app.futureagi.com"><strong>Sign up for free</strong></a> ·
-  <a href="https://github.com/orgs/future-agi/discussions"><strong>Join our Community</strong></a>
-</p>
-
----
-
-<p align="center">
-  <a href="https://docs.futureagi.com">📚 Docs</a> &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="https://github.com/future-agi/cookbooks">🍳 Examples</a> &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="https://app.futureagi.com">🚀 Sign up for free</a>
+  <a href="https://join.slack.com/t/future-agi/shared_invite/zt-3gqwrdf2p-4oj1LVPqkQIoiS_OSrFL2A"><strong>Join our Community</strong></a>
 </p>
 
 ---
 
 ## What We Do
-
-**Future AGI** is redefining how enterprises build and maintain production-grade AI systems. Our platform delivers a robust, data-driven solution that transforms the AI lifecycle by offering:
 
 - **Deep, Multimodal Evaluations:** Rigorous assessment of text, image, audio, and video models to pinpoint performance issues.
 - **Automated Optimization:** Intelligent, actionable insights that reduce development time by up to 95%.
@@ -39,8 +29,6 @@
 
 - **Contribute:** We welcome contributors from all backgrounds. Check out our [public repositories](https://github.com/orgs/future-agi/repositories).
 - **Website:** [futureagi.com](https://futureagi.com)
-- **LinkedIn:** [Future AGI](https://linkedin.com/company/futureagi)
-- **Twitter:** [@FutureAGI](https://twitter.com/futureagi_)
 - **Support:** [hello@futureagi.com](mailto:hello@futureagi.com)
 
 ---
