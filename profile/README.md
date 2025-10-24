@@ -17,14 +17,11 @@
 
 ---
 
-## 🚀 Quick Links
-
-| | |
-|---|---|
-| 📚 [**Documentation**](https://docs.futureagi.com) | Dive into our comprehensive guides and API references. |
-| 🍳 [**Examples & Cookbooks**](https://github.com/future-agi/cookbooks) | Explore practical examples and recipes to get started quickly. |
-| 🗺️ [**Roadmap**](https://github.com/orgs/future-agi/discussions/categories/roadmap) | Check out our public roadmap and see what we're building next. |
-| 💼 [**We're Hiring!**](https://futureagi.com/careers) | Join our team of innovators and build the future of AI. |
+<p align="center">
+  <a href="https://docs.futureagi.com">📚 Docs</a> &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="https://github.com/future-agi/cookbooks">🍳 Examples</a> &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="https://app.futureagi.com">🚀 Sign up for free</a>
+</p>
 
 ---
 
