@@ -1,11 +1,7 @@
-<!-- Placeholder for a future Hero Banner -->
 <p align="center">
-  <a href="https://futureagi.com">
-    <img src="https://raw.githubusercontent.com/future-agi/.github/main/profile/logo-light-mode.png#gh-light-mode-only" alt="Future AGI" height="64">
-    <img src="https://raw.githubusercontent.com/future-agi/.github/main/profile/logo-dark-mode.png#gh-dark-mode-only" alt="Future AGI" height="64">
-  </a>
+  <img src="https://raw.githubusercontent.com/future-agi/.github/main/profile/image.png" alt="Future AGI - AI Agent Engineering and Optimization Platform">
 </p>
-<h1 align="center">Future AGI</h1>
+
 <p align="center">
   The world's most accurate AI evaluation, observability, and optimization platform.
 </p>
@@ -19,9 +15,11 @@
 
 ## What We Do
 
-- **Deep, Multimodal Evaluations:** Rigorous assessment of text, image, audio, and video models to pinpoint performance issues.
-- **Automated Optimization:** Intelligent, actionable insights that reduce development time by up to 95%.
-- **Real-Time Observability:** Continuous monitoring and evaluation to ensure reliability and trustworthiness in production environments.
+Our platform supports the entire AI development lifecycle, from development to production and beyond.
+
+- **Evaluate & Simulate:** Rigorously test and simulate agent behavior during development to catch issues early.
+- **Observe & Optimize:** Monitor performance in production with real-time observability and automatically optimize your models.
+- **Protect & Secure:** Safeguard your AI applications with robust error analysis and security measures.
 
 ---
 
