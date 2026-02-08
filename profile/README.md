@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://docs.futureagi.com"><strong>View Docs</strong></a> ·
   <a href="https://app.futureagi.com"><strong>Sign up for free</strong></a> ·
-  <a href="https://join.slack.com/t/future-agi/shared_invite/zt-3gqwrdf2p-4oj1LVPqkQIoiS_OSrFL2A"><strong>Join our Community</strong></a>
+  <a href="https://discord.gg/n2tCUKBkAw"><strong>Join our Community</strong></a>
 </p>
 
 ---
