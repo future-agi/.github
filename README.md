@@ -1,59 +1,79 @@
-# Welcome to Future AGI :wave:
-
-[![Website](https://img.shields.io/website?url=https%3A%2F%2Ffutureagi.com)](https://futureagi.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-blue)](https://linkedin.com/company/futureagi)
-[![Twitter](https://img.shields.io/twitter/follow/futureagi?style=social)](https://twitter.com/futureagi)
-
-:star2: **Transforming the AI Landscape** :star2:
-
-World's most accurate AI evaluation, observability and optimization platform to help teams build near perfect AI applications across software and hardware.
-
----
-
-## :fire: What We Do
+<div align="center">
 
 
-Agent Engineering Suite with:
-- World's best Evaluations to power AGI.
-- Fastest guardrails with <100ms latency
-- SDKs to prototype and observe agents
+# AI agents hallucinate. Fix it faster.
+
+**The open-source platform for shipping self-improving AI agents.**
+Evaluations · Tracing · Simulations · Guardrails · Gateway · Optimization — one platform, one feedback loop.
+
+[![Website](https://img.shields.io/badge/futureagi.com-000?style=flat-square)](https://futureagi.com)
+[![Docs](https://img.shields.io/badge/docs-blue?style=flat-square)](https://docs.futureagi.com)
+[![Discord](https://img.shields.io/badge/discord-join-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/UjZ2gRT5p)
+[![Twitter](https://img.shields.io/twitter/follow/FutureAGI_?style=social)](https://x.com/FutureAGI_)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-follow-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/company/futureagi)
+
+[**Try Cloud (Free)**](https://app.futureagi.com/auth/jwt/register) · [**Self-host**](https://github.com/future-agi/future-agi) · [**Docs**](https://docs.futureagi.com) · [**Blog**](https://futureagi.com/blog)
+
+</div>
 
 ---
 
-## :bulb: Our Vision
+## What we're building
 
-To transform the AI development landscape by empowering teams to build and deploy advanced models with speed, precision, and impact, bridging the gap between innovation and business success across industries.
+Most AI agents they fail in production. Teams fight that with a stitched-together stack of evals, observability, and guardrails that never close the loop.
 
----
+**Future AGI collapses all of it into one platform.** Simulate edge cases before launch, evaluate what happens in production, protect users in real time, and turn every trace into signal for the next version.
 
-## :earth_africa: Join Us
-
-:male-technologist: **We're Hiring!**  
-Join a team of passionate engineers, data scientists, and innovators. [Explore careers at Future AGI](https://futureagi.com/careers)
-
-:speech_balloon: **Collaborate with Us**  
-Looking to partner on AI solutions or projects? [Get in touch](mailto:partnerships@futureagi.com)
-
-
-## :star2: Get Involved
-
-:tada: **Contribute**  
-We welcome contributors from all backgrounds. Check out our [public repositories](https://github.com/futureagi) to get started.  
-:books: **Learn**  
-Explore our [documentation](https://docs.futureagi.com) for in-depth guides and resources.  
-🛠 **Collaborate**  
-Got an idea? Let's build the future of AI together.
+The result: agents that don't just get monitored — they self-improve.
 
 ---
 
-## :mailbox: Stay Connected
+## 🧰 Open-source SDKs
 
-- **Website**: [futureagi.com](https://futureagi.com)  
-- **LinkedIn**: [Future AGI](https://linkedin.com/company/futureagi)  
-- **Twitter**: [@FutureAGI](https://twitter.com/futureagi)  
-- **Support**: [support@futureagi.com](mailto:support@futureagi.com)
+Every SDK is independently usable and Apache/MIT-licensed. Drop any one into your stack.
+
+| Repo | Install | Purpose |
+|---|---|---|
+| [**future-agi**](https://github.com/future-agi/future-agi) | `docker compose up -d` | Main monorepo — self-hostable full platform |
+| [**traceAI**](https://github.com/future-agi/traceAI) | `pip install fi-instrumentation-otel` | Zero-config OTel tracing for 50+ AI frameworks |
+| [**ai-evaluation**](https://github.com/future-agi/ai-evaluation) | `pip install ai-evaluation` | 50+ evaluation metrics + guardrail scanners |
+| [**agent-opt**](https://github.com/future-agi/agent-opt) | `pip install agent-opt` | 6 prompt-optimization algorithms (GEPA, PromptWizard…) |
+| [**simulate-sdk**](https://github.com/future-agi/simulate-sdk) | `pip install agent-simulate` | Voice-agent simulation via LiveKit + Silero VAD |
+| [**agentcc**](https://github.com/future-agi/agent-command-center-sdk) | `pip install agentcc` | Gateway client — 100+ LLM providers, OpenAI-compatible |
+| [**futureagi-sdk**](https://github.com/future-agi/futureagi-sdk) | `pip install futureagi` | Platform SDK — datasets, prompts, KB, experiments |
 
 ---
 
-**:rocket: Building the future, one dataset at a time.**  
-Let's shape the AI of tomorrow together! :bulb:
+## 💡 Our vision
+
+Transform how teams build AI - from stitched-together monitoring to self-improving agents. Bridge the gap between research-grade AI and production-grade trust, so every team can ship models that are fast, precise, and reliable at scale.
+
+---
+
+## 🌍 Community
+
+- 💬 [**Discord**](https://discord.gg/UjZ2gRT5p) — real-time help from the team and community
+- 🗨️ [**GitHub Discussions**](https://github.com/orgs/future-agi/discussions) — ideas, roadmap input, questions
+- 📝 [**Blog**](https://futureagi.com/blog) — engineering + research posts
+- 📺 [**YouTube**](https://www.youtube.com/@Future_AGI) — walkthroughs and demos
+- 📊 [**Status**](https://status.futureagi.com) — cloud uptime + incidents
+
+---
+
+## 🤝 Get involved
+
+**We're hiring.** Engineers, researchers, and designers shipping the future of reliable AI. → [futureagi.com/careers](https://futureagi.com/careers)
+
+**Partner with us.** Building on Future AGI or want to collaborate? → [partnerships@futureagi.com](mailto:partnerships@futureagi.com)
+
+**Contribute.** Bug fixes, new evaluators, framework integrations, docs — all welcome. Start with [`good first issue`](https://github.com/future-agi/future-agi/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22).
+
+---
+
+<div align="center">
+
+**Building the future of AI — one dataset, one trace, one evaluation at a time.**
+
+[🌐 futureagi.com](https://futureagi.com) · [📖 docs.futureagi.com](https://docs.futureagi.com) · [☁️ app.futureagi.com](https://app.futureagi.com) · [📧 support@futureagi.com](mailto:support@futureagi.com) · [🔐 security@futureagi.com](mailto:security@futureagi.com)
+
+</div>
