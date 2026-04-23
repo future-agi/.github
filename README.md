@@ -20,7 +20,7 @@ Evaluations · Tracing · Simulations · Guardrails · Gateway · Optimization �
 
 ## What we're building
 
-Most AI agents they fail in production. Teams fight that with a stitched-together stack of evals, observability, and guardrails that never close the loop.
+Most AI agents fail in production, and teams end up stitching together stack of evals, observability, and guardrails that never close the loop.
 
 **Future AGI collapses all of it into one platform.** Simulate edge cases before launch, evaluate what happens in production, protect users in real time, and turn every trace into signal for the next version.
 
@@ -46,7 +46,7 @@ Every SDK is independently usable and Apache/MIT-licensed. Drop any one into you
 
 ## 💡 Our vision
 
-Transform how teams build AI - from stitched-together monitoring to self-improving agents. Bridge the gap between research-grade AI and production-grade trust, so every team can ship models that are fast, precise, and reliable at scale.
+Truly autonomous AI won't come from bigger models. It'll come from infrastructure that lets agents learn, adapt, and improve on their own. We're building toward a world where every AI system in production gets better by itself and we're doing it in the open, because autonomy without transparency isn't progress.
 
 ---
 
