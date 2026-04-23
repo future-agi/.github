@@ -1,35 +1,63 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/future-agi/.github/main/profile/image.png" alt="Future AGI - AI Agent Engineering and Optimization Platform">
+  <img src="Logo.png" alt="Future AGI">
 </p>
 
 <p align="center">
-  The world's most accurate AI evaluation, observability, and optimization platform.
+  Future AGI is an open-source e2e agent engineering and optimization platform that helps you ship self-improving AI agents.
 </p>
+
 <p align="center">
-  <a href="https://docs.futureagi.com"><strong>View Docs</strong></a> ·
-  <a href="https://app.futureagi.com"><strong>Sign up for free</strong></a> ·
-  <a href="https://discord.gg/n2tCUKBkAw"><strong>Join our Community</strong></a>
+  <a href="https://app.futureagi.com/auth/jwt/register"><strong>Try Cloud</strong></a> ·
+  <a href="https://github.com/future-agi/future-agi"><strong>Self-host</strong></a> ·
+  <a href="https://docs.futureagi.com"><strong>Docs</strong></a> ·
+  <a href="https://futureagi.com/blog"><strong>Blog</strong></a> ·
+  <a href="https://discord.gg/n2tCUKBkAw"><strong>Discord</strong></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/future-agi/future-agi/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-Apache%202.0-blue?style=flat-square" alt="Apache 2.0"></a>
+  <a href="https://discord.gg/n2tCUKBkAw"><img src="https://img.shields.io/badge/discord-join-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord"></a>
+  <a href="https://x.com/FutureAGI_"><img src="https://img.shields.io/twitter/follow/FutureAGI_?style=social" alt="Twitter"></a>
 </p>
 
 ---
 
-## What We Do
+## Why Future AGI
 
-Our platform supports the entire AI development lifecycle, from development to production and beyond.
+Most AI agents fail in production, and teams end up stitching together evals, observability, and guardrails that never close the loop. Future AGI collapses all of it into one platform: simulate edge cases before launch, evaluate what happens in production, protect users in real time, and feed every trace back into the next version.
 
-- **Evaluate & Simulate:** Rigorously test and simulate agent behavior during development to catch issues early.
-- **Observe & Optimize:** Monitor performance in production with real-time observability and automatically optimize your models.
-- **Protect & Secure:** Safeguard your AI applications with robust error analysis and security measures.
+## What you get
 
----
-
-## Get Involved & Stay Connected
-
-- **Contribute:** We welcome contributors from all backgrounds. Check out our [public repositories](https://github.com/orgs/future-agi/repositories).
-- **Website:** [futureagi.com](https://futureagi.com)
-- **Support:** [hello@futureagi.com](mailto:hello@futureagi.com)
+- 🧪 **Simulate:** thousands of multi-turn text + voice conversations against realistic personas and adversarial inputs
+- 📊 **Evaluate:** 50+ metrics under one `evaluate()` call (groundedness, tool-use, PII, custom rubrics)
+- 🛡️ **Protect:** 18 built-in guardrails + 15 vendor adapters, inline or standalone
+- 👁️ **Monitor:** OpenTelemetry-native tracing across 50+ frameworks (LangChain, LlamaIndex, CrewAI, DSPy…)
+- 🎛️ **Agent Command Center:** OpenAI-compatible gateway, 100+ providers, 15 routing strategies
+- 🔁 **Optimize:** 6 prompt-optimization algorithms (GEPA, PromptWizard, ProTeGi…) that learn from production
 
 ---
 
-**Building the future of AI—one dataset at a time.**
+## Our repos
 
+| Repo | Install | Purpose |
+|---|---|---|
+| [**future-agi**](https://github.com/future-agi/future-agi) | `docker compose up -d` | Main monorepo, full self-hostable platform |
+| [**traceAI**](https://github.com/future-agi/traceAI) | `pip install fi-instrumentation-otel` | Zero-config OTel tracing for 50+ AI frameworks |
+| [**ai-evaluation**](https://github.com/future-agi/ai-evaluation) | `pip install ai-evaluation` | 50+ evaluation metrics + guardrail scanners |
+| [**agent-opt**](https://github.com/future-agi/agent-opt) | `pip install agent-opt` | 6 prompt-optimization algorithms |
+| [**simulate-sdk**](https://github.com/future-agi/simulate-sdk) | `pip install agent-simulate` | Voice-agent simulation (LiveKit + Silero VAD) |
+| [**agentcc**](https://github.com/future-agi/agent-command-center-sdk) | `pip install agentcc` | Gateway client, 100+ LLM providers |
+
+<sub>See [all repos →](https://github.com/orgs/future-agi/repositories)</sub>
+
+---
+
+## Community & company
+
+- 💬 [**Discord**](https://discord.gg/n2tCUKBkAw) · 🗨️ [**Discussions**](https://github.com/orgs/future-agi/discussions) · 📝 [**Blog**](https://futureagi.com/blog) · 📺 [**YouTube**](https://www.youtube.com/@Future_AGI)
+- 🧑‍💻 **We're hiring** → [futureagi.com/careers](https://futureagi.com/careers)
+- 📬 **Reach us** → [hello@futureagi.com](mailto:hello@futureagi.com)
+
+<p align="center">
+  <sub>Apache 2.0 · Built by the Future AGI team and <a href="https://github.com/future-agi/future-agi/graphs/contributors">contributors worldwide</a></sub>
+</p>
