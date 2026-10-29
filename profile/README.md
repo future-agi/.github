@@ -1,58 +1,36 @@
-# Welcome to Future AGI 👋
+# Future AGI
 
-[![Website](https://img.shields.io/website?url=https%3A%2F%2Ffutureagi.com)](https://futureagi.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-blue)](https://linkedin.com/company/futureagi)
-[![Twitter](https://img.shields.io/twitter/follow/futureagi?style=social)](https://twitter.com/futureagi)
+**Make AI applications reliable.**
 
-🌟 **Transforming the AI Landscape** 🌟  
-At **Future AGI**, we are pioneering the **data layer for AI** to supercharge the creation, evaluation, and retraining of multimodal AI systems. Our mission is to simplify and accelerate the AI lifecycle for enterprises, enabling high-quality data generation and observability for all.
+Trace what happened. Evaluate the result. Test the next change before it reaches production.
 
----
+[Explore the platform](https://futureagi.com) · [Open Cloud](https://app.futureagi.com) · [Read the docs](https://docs.futureagi.com)
 
-## 🔥 What We Do
+## Build with us
 
-- **Automated Data Generation**: Generate and refine datasets for AI training with ease.
-- **Multimodal AI Systems**: Build robust models with support for text, images, audio, and video data.
-- **End-to-End Analytics**: Leverage insights to optimize datasets and model performance.
-- **Enterprise Solutions**: Deliver scalable and secure tools tailored for business needs.
+| Project | What it does | Get started |
+| :--- | :--- | :--- |
+| **[Future AGI](https://github.com/future-agi/future-agi)** | The open-source platform for evaluating and observing AI applications, with simulations, datasets, a gateway, and guardrails. | [Platform repository](https://github.com/future-agi/future-agi#readme) |
+| **[traceAI](https://github.com/future-agi/traceAI)** | OpenTelemetry tracing for LLM calls, agents, tools, and retrieval. SDKs for Python, TypeScript, Java, Go, and C#. | [Tracing documentation](https://docs.futureagi.com/docs/tracing) |
 
----
+Both projects are Apache 2.0 licensed. Use the platform, the instrumentation, or the pieces that fit your stack.
 
-## 💡 Our Vision
+## From a request to a better application
 
-To enable the next wave of AI innovation by providing **high-quality data at scale** and empowering organizations to build better AI systems faster.
+- **Observe.** Follow model calls, tool use, and retrieval in a trace. Connect application context with OpenTelemetry instrumentation.
+- **Evaluate.** Measure the quality of outputs and compare changes against datasets.
+- **Simulate.** Exercise agent behavior before deploying a change.
+- **Protect.** Add guardrails to application inputs and outputs.
 
----
+[Browse integration guides](https://docs.futureagi.com/docs/integrations) · [Start tracing](https://docs.futureagi.com/docs/tracing)
 
-## 🌍 Join Us
+## Contribute
 
-👨‍💻 **We're Hiring!**  
-Join a team of passionate engineers, data scientists, and innovators. [Explore careers at Future AGI](https://futureagi.com/careers)
+A good reproduction, a clearer example, or a new integration makes the tools better for everyone.
 
-💬 **Collaborate with Us**  
-Looking to partner on AI solutions or projects? [Get in touch](mailto:partnerships@futureagi.com)
+- **Work on instrumentation:** [traceAI contributing guide](https://github.com/future-agi/traceAI/blob/dev/CONTRIBUTING.md)
+- **Work on the platform:** [Future AGI repository](https://github.com/future-agi/future-agi)
+- **Report an SDK issue:** [traceAI issues](https://github.com/future-agi/traceAI/issues)
+- **Report a platform issue:** [Future AGI issues](https://github.com/future-agi/future-agi/issues)
 
-
-## 🌟 Get Involved
-
-🎉 **Contribute**  
-We welcome contributors from all backgrounds. Check out our [public repositories](https://github.com/orgs/future-agi/repositories) to get started.  
-📚 **Learn**  
-Explore our [documentation](https://docs.futureagi.com) for in-depth guides and resources.  
-🛠 **Collaborate**  
-Got an idea? Let’s build the future of AI together.
-
----
-
-## 📫 Stay Connected
-
-- **Website**: [futureagi.com](https://futureagi.com)  
-- **LinkedIn**: [Future AGI](https://linkedin.com/company/futureagi)  
-- **Twitter**: [@FutureAGI](https://twitter.com/futureagi)  
-- **Support**: [support@futureagi.com](mailto:support@futureagi.com)
-
----
-
-**🚀 Building the future, one dataset at a time.**  
-Let’s shape the AI of tomorrow together! 💡
-
+[Website](https://futureagi.com) · [Documentation](https://docs.futureagi.com) · [All repositories](https://github.com/orgs/future-agi/repositories)
